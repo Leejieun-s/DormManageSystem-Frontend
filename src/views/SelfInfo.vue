@@ -99,7 +99,9 @@
           </el-tooltip>
         </div>
         <div style="margin-left: 130px">
-          <img alt="" src="../../public/self_Space.png"/>
+          <img alt="" src="@/assets/right.png" style="width: 30%"/>
+
+          <img alt="" src="@/assets/left.png" style="width: 30%"/>
         </div>
       </div>
       <div>
