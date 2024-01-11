@@ -1,6 +1,6 @@
 <template>
   <div>
-
+    <Calender/>
     <img alt="" src="@/assets/loginLift.png" style="width: 15%"/>
 
     <div class="login-container">
@@ -32,5 +32,6 @@
     </div>
   </div>
 </template>
-<script src="@/assets/js/Login.js"></script>
+<script src="@/assets/js/Login.js">
+</script>
 <style scoped>@import '../assets/css/Login.css';</style>
